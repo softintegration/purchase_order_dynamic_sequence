@@ -13,6 +13,6 @@
     'version': '1.0.1',
     'category': 'Purchase',
     'demo': [],
-    'depends': ['sequence_dynamic'],
+    'depends': ['sequence_dynamic','purchase'],
     'license': 'LGPL-3',
 }
