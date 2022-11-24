@@ -10,7 +10,7 @@
     'qweb': [],
     'description': False,
     'images': [],
-    'version': '1.0.1',
+    'version': '1.0.1.2',
     'category': 'Purchase',
     'demo': [],
     'depends': ['sequence_dynamic','purchase'],
